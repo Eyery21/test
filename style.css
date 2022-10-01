@@ -117,7 +117,7 @@ header {
 
 .peint {
     height: 600px;
-    background-image: url(/images/iStock-1202951300.png);
+    background-image: url(./images/iStock-1202951300.png);
     display: flex;
 
     flex-direction: row;
